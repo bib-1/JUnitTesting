@@ -5,4 +5,7 @@ This the simple project which integreates JUnit Testing.
  -- Create a java class and add methods in it. Same like SimpleCalculator Class in My Case
 ![image](https://github.com/bib-1/JUnitTesting/assets/65732044/a022957b-d8c0-4f4f-a66f-f888ec53f0ac)
 -- Right clich on the class -> Show Context Action -> Create Test. 
--- Once you follow this steps and test class will apprear. "SimpleCalculatorTest" in this program. 
+-- Once you follow this steps and test class will apprear. "SimpleCalculatorTest" in this program.
+-- Write down tests and run:
+![image](https://github.com/bib-1/JUnitTesting/assets/65732044/1e2269b7-4fa8-4c80-8951-d3a2bd2ee9ca)
+
